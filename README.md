@@ -25,6 +25,3 @@ GitHub: https://github.com/Developer-Ronak
 
 ---
 
-## 📊 GitHub Stats
-
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Ronak&show_icons=true)
